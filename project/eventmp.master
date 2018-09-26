@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/mp.master" AutoEventWireup="true" CodeFile="eventmp.master.cs" Inherits="eventmp" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    
+    <div class="tophead">
+
+    <div class="ddmenu">
+       
+        <asp:DropDownList ID="DropDownList1" runat="server">
+
+        </asp:DropDownList>
+    </div>
+
+        <div id="evmenu">
+		<ul>
+			<li class="first">
+				<span class="opener">Venues<b></b></span>
+				<ul>
+					<li><a href="#">Hotel</a></li>
+					<li><a href="#">Restaurant</a></li>
+					<li><a href="#">Banquet Halls</a></li>		
+					<li><a href="#">Farms</a></li>
+					<li><a href="#">Bar</a></li>
+				</ul>
+			</li>
+			<li>
+                <span class="opener">Vendors<b></b></span>
+				<ul>
+					<li><a href="#">Band</a></li>
+					<li><a href="#">Catering</a></li>
+					<li><a href="#">Music</a></li>		
+					<li><a href="#">Photographer</a></li>
+					<li><a href="#">Jewelry</a></li>
+				</ul>
+                </li>
+			<li>
+				<span class="opener">Unique<b></b></span>
+				<ul>
+					<li><a href="#">Lorem Ipsum</a></li>
+					<li><a href="#">Consequat Dolor</a></li>
+					<li><a href="#">Magna Feugiat</a></li>
+					<li><a href="#">Etiam Nullam</a></li>
+					<li><a href="#">Amet Phasellus</a></li>
+				</ul>
+			</li>
+            <li>
+				<span class="opener">Refer<b></b></span>
+				<ul>
+					<li><a href="#">Jewelry</a></li>
+					<li><a href="#">Invitation</a></li>
+					<li><a href="#">Cake</a></li>
+					<li><a href="#">Flower</a></li>
+					<li><a href="#">Hairstyle</a></li>
+				</ul>
+			</li>
+			 <li>
+				<span class="opener">Dresses<b></b></span>
+				<ul>
+					<li><a href="#">Wedding</a></li>
+					<li><a href="#">Fashion</a></li>
+					<li><a href="#">Bride</a></li>
+					<li><a href="#">Groom</a></li>
+				</ul>
+			</li>
+			<li class="last"><a href="#">Contact</a></li>
+		</ul>
+		<br class="clearfix" />
+	</div>
+
+ </div>    
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
+    <p>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+    </p>
+</asp:Content>
+

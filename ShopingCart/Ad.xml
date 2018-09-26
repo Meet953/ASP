@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+ <ImageUrl>http://localhost:62749/A/1.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>CAR</AlternateText>
+    <Keyword>A</Keyword>
+    <Impression>PAIN NO 1</Impression>
+    <Caption>BUY CAR</Caption>
+  </Ad>
+
+<Ad>
+ <ImageUrl>http://localhost:62749/A/2.png</ImageUrl> 
+ <NavigateUrl>http://www.yahoo.com</NavigateUrl>
+    <AlternateText>WATCH</AlternateText>
+    <Keyword>B</Keyword>
+    <Impression>PAIN RETURNS</Impression>
+    <Caption>BUY WATCH</Caption>
+</Ad>
+
+<Ad>
+ <ImageUrl>http://localhost:62749/A/3.jpg</ImageUrl> 
+    <NavigateUrl>http://www.youtube.com</NavigateUrl>
+    <AlternateText>JWELLERY</AlternateText>
+    <Keyword>C</Keyword>
+    <Impression>PAIN KA BADLA</Impression>
+    <Caption>BUY JWELLERY</Caption>
+</Ad>
+
+<Ad>
+  <ImageUrl>http://localhost:62749/A/4.jpg</ImageUrl> 
+    <NavigateUrl>http://www.wikipedia.com</NavigateUrl>
+    <AlternateText>BURGER</AlternateText>
+    <Keyword>D</Keyword>
+    <Impression>PAIN KYU</Impression>
+    <Caption>BUY BURGER</Caption>
+</Ad>
+  
+<Ad>
+  <ImageUrl>http://localhost:62749/A/5.jpg</ImageUrl> 
+    <NavigateUrl>http://www.wikipedia.com</NavigateUrl>
+    <AlternateText>SHOES</AlternateText>
+    <Keyword>D</Keyword>
+    <Impression>PAIN KYU</Impression>
+    <Caption>BUY SHOES</Caption>
+</Ad>
+  </Advertisements>
